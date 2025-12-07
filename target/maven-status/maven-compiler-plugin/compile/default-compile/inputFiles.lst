@@ -1,1 +1,12 @@
 /Users/mirko/Documents/GitHub/customer-service/src/main/java/com/customer/service/CustomerServiceApplication.java
+/Users/mirko/Documents/GitHub/customer-service/src/main/java/com/customer/service/client/OrderClient.java
+/Users/mirko/Documents/GitHub/customer-service/src/main/java/com/customer/service/config/WebClientConfig.java
+/Users/mirko/Documents/GitHub/customer-service/src/main/java/com/customer/service/controller/CustomerController.java
+/Users/mirko/Documents/GitHub/customer-service/src/main/java/com/customer/service/domain/Customer.java
+/Users/mirko/Documents/GitHub/customer-service/src/main/java/com/customer/service/dto/CreateOrderRequest.java
+/Users/mirko/Documents/GitHub/customer-service/src/main/java/com/customer/service/dto/OrderRequest.java
+/Users/mirko/Documents/GitHub/customer-service/src/main/java/com/customer/service/dto/OrderResponse.java
+/Users/mirko/Documents/GitHub/customer-service/src/main/java/com/customer/service/exception/CustomerNotFoundException.java
+/Users/mirko/Documents/GitHub/customer-service/src/main/java/com/customer/service/exception/GlobalErrorHandler.java
+/Users/mirko/Documents/GitHub/customer-service/src/main/java/com/customer/service/respository/CustomerRepository.java
+/Users/mirko/Documents/GitHub/customer-service/src/main/java/com/customer/service/serivce/CustomerService.java
